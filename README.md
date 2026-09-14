@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="600" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzhxNzhmdjB2YTZpaWI5bDJwZXVlcTBkMnJ0NDR4dDIwZHNxb3RnbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/60q1K6mTzQQ1suxNfm/giphy.gif)" alt="Coding" width="600" />
 </p>
 
 <h1 align="center">⚡ Skills & Technologies</h1>
