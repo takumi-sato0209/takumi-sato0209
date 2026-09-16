@@ -38,6 +38,8 @@
 
 <h2 align="center">👋 About Me</h2>
 
+<div style="display: flex; gap: 30px;">
+
 <div align="center">
 
   <p>
@@ -67,6 +69,29 @@
   </table>
 
 </div>
+
+<div>
+
+<div align="center">
+
+  <br/>
+
+  <video
+    src="https://github.com/user-attachments/assets/c2834fbb-e3e2-497c-a070-090bd60431a1"
+    controls
+    autoplay
+    loop
+    muted
+    playsinline
+    width="90%"
+  />
+
+</div>
+</div>
+
+</div>
+
+<br/>
 
 <br/>
 
@@ -129,30 +154,6 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:8A2BE2&height=2" width="100%" />
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  D E M O                                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🎬 Featured Demo</h2>
-
-<div align="center">
-
-  <br/>
-
-  <video
-    src="https://github.com/user-attachments/assets/c2834fbb-e3e2-497c-a070-090bd60431a1"
-    controls
-    autoplay
-    loop
-    muted
-    playsinline
-    width="90%"
-  />
-
-</div>
 
 <br/>
 
