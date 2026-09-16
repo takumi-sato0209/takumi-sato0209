@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdoZHA4czd1dWV0enh4dDE5MXdhZ3dvNmxieW05ZXdmODRsMWlqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" alt="Coding animation" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdoZHA4czd1dWV0enh4dDE5MXdhZ3dvNmxieW05ZXdmODRsMWlqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif" width="60%" alt="Coding animation" />
 
 # ⚡ TAKUMI SATO
 
