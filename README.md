@@ -1,59 +1,163 @@
+<!-- ========================================================= -->
+<!--                         CODING HERO                       -->
+<!-- ========================================================= -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdoZHA4czd1dWV0enh4dDE5MXdhZ3dvNmxieW05ZXdmODRsMWlqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Coding" width="100%" />
+  <img
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdoZHA4czd1dWV0enh4dDE5MXdhZ3dvNmxieW05ZXdmODRsMWlqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif"
+    alt="Coding animation"
+    width="100%"
+  />
 </p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    SKILLS & TECHNOLOGIES                  -->
+<!-- ========================================================= -->
 
 <h1 align="center">⚡ Skills & Technologies</h1>
 
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <i>
+    Technologies I use to design, build, deploy, and scale modern applications.
+  </i>
+</p>
+
+<br>
+
+<!-- ======================= LANGUAGES ======================== -->
+
+<h2 align="center">💻 Programming Languages</h2>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,go,rust"
+    alt="Programming Languages"
+  />
+</p>
+
+<br>
+
+<!-- ========================= FRONTEND ======================= -->
+
+<h2 align="center">🎨 Frontend Development</h2>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,tailwind,sass"
+    alt="Frontend Technologies"
+  />
+</p>
+
+<br>
+
+<!-- ========================== BACKEND ======================= -->
+
+<h2 align="center">⚙️ Backend & Databases</h2>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,django,spring,postgres,mongodb,redis"
+    alt="Backend Technologies"
+  />
+</p>
+
+<br>
+
+<!-- ======================= CLOUD & DEVOPS ==================== -->
+
+<h2 align="center">☁️ Cloud & DevOps</h2>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,terraform,ansible"
+    alt="Cloud and DevOps"
+  />
+</p>
+
+<br>
+
+<!-- =========================== TOOLS ======================== -->
+
+<h2 align="center">🛠️ Tools & Workflow</h2>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=git,linux,vim,figma,jira,grafana,prometheus"
+    alt="Developer Tools"
+  />
+</p>
+
+<br>
+<hr>
+<br>
+
+<!-- ========================================================= -->
+<!--                    DEVELOPMENT STACK                      -->
+<!-- ========================================================= -->
+
+<h2 align="center">🚀 Development Stack</h2>
+
+<p align="center">
+  <i>
+    From frontend interfaces to cloud infrastructure.
+  </i>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,django,postgres,mongodb,docker,kubernetes,aws,terraform"
+    alt="Full Development Stack"
+  />
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                      FEATURED DEMO                         -->
+<!-- ========================================================= -->
+
+<h2 align="center">🎬 Featured Demo</h2>
+
+<p align="center">
+  <i>See the project in action.</i>
+</p>
+
+<br>
+
+<p align="center">
+  <video
+    src="https://github.com/user-attachments/assets/c2834fbb-e3e2-497c-a070-090bd60431a1"
+    controls
+    autoplay
+    loop
+    muted
+    playsinline
+    width="90%"
+  ></video>
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                         FOOTER                             -->
+<!-- ========================================================= -->
+
+<hr>
+
+<br>
+
+<p align="center">
+  <strong>⚡ Build · Ship · Scale · Repeat</strong>
 </p>
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <sub>
+    Always learning. Always building. Always improving.
+  </sub>
 </p>
 
-<p align="center">
-  <!-- Backend & Databases -->
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- DevOps & Cloud -->
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Tools & Others -->
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-</p>
+<br>
